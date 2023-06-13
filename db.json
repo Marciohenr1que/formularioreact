@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Marcos Azevedo",
+      "dateOfBirth": "1988-10-01 00:00:00",
+      "email": "marcos.azevedo@email.com",
+      "maritalStatus": "married",
+      "address": "Fake address",
+      "number": "111",
+      "complement": null,
+      "neighborhood": "João de Barro",
+      "city": "Vitória da Conquista",
+      "state": "BA"
+    },
+    {
+      "id": 2,
+      "fullname": "José Maria",
+      "dateOfBirth": "2001-01-01 00:00:00",
+      "email": "jose.maria@email.com",
+      "maritalStatus": "divorced",
+      "address": "Fake address",
+      "number": "22",
+      "complement": "Onde judas perdeu as botas",
+      "neighborhood": "Baixada da égua",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "id": 3,
+      "fullname": "Maria José",
+      "dateOfBirth": null,
+      "email": "maria.jose@email.com",
+      "maritalStatus": "single",
+      "address": "Rua do nada próximo a coisa nenhuma",
+      "number": "s/n",
+      "complement": "Do lado da esquina com a paralela",
+      "neighborhood": "Taboeiras",
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    {
+      "fullname": "marcio",
+      "dateOfBirth": "12/10/1989",
+      "email": "xxmarcio.henrique@gmail.com",
+      "maritalStatus": "single",
+      "address": "turquesa",
+      "number": "423",
+      "complement": "casa",
+      "neighborhood": "sao joaquim",
+      "city": "contagem",
+      "state": "minas gerais",
+      "id": 4
+    }
+  ]
+}
